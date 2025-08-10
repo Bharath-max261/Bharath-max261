@@ -34,10 +34,12 @@
 ---
 
 <!-- GitHub Stats -->
+<p align="center>
 ![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-max261&show_icons=true&theme=dark)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bharath-max261&theme=dark&hide_border=true)
+</p>
 
 
 ---
