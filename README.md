@@ -33,13 +33,12 @@
 
 ---
 
-##  GitHub Stats & Streak  
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bharath-max261
-&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-max261
-&layout=compact&theme=react&hide_border=true" />
-</p>
+<!-- GitHub Stats -->
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharath-max261&show_icons=true&theme=dark)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Bharath-max261&theme=dark&hide_border=true)
+
 
 ---
 
