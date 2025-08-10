@@ -15,7 +15,7 @@
 - 🗄️ Experienced in **Python** & **Node.js** for backend development—on my way to becoming a **Full-Stack Developer**  
 - 💼 Explore my work on my [Portfolio](YOUR_PORTFOLIO_LINK)  
 - 📄 View my [Resume](YOUR_RESUME_LINK)  
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **bharaththangellapalli@gmail.com**
 
 ---
 
