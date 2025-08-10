@@ -35,8 +35,10 @@
 
 ##  GitHub Stats & Streak  
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bharath-max261
+&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-max261
+&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
