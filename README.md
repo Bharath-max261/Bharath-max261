@@ -32,7 +32,8 @@ Showcases my projects, skills, and achievements.
 ---
 
 ## 📊 GitHub Stats  
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharaththangellapalli&show_icons=true&theme=radical)  
+## 📊 GitHub Stats  
+![Bharath's GitHub Stats](https://github-readme-stats.vercel)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharaththangellapalli&layout=compact&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bharaththangellapalli&theme=react-dark)
 
