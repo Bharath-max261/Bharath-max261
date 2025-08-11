@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Bharath Welcomes You</h1>
 
 <h3 align="center">
-  I’m a
+  I’m a <br> <br>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;+Full-Stack+Enthusiast;&right=true&width=400&height=50"/>
 </h3>
 
