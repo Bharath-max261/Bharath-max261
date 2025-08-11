@@ -2,7 +2,7 @@
 
 <h3 align="center">
   I’m a <br>
-             <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;+Full-Stack+Enthusiast;&right=true&width=400&height=50"/>
+             <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Enthusiast;+React+JS+Developer;+Frontend+Developer;&right=true&width=400&height=50"/>
 </h3>
 
 <p align="right">
